@@ -1,1 +1,9 @@
 /*  your css code here. If applicable */
+h1{
+	text-align:center;
+}
+.tabel-1, t11, t12, t13{
+	width:100%
+	border:1px, solid, balck;
+	border-collapse:collapse;
+}
